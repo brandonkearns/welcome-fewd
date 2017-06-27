@@ -1,0 +1,21 @@
+h1, h2, h3, h4, h6 {
+  text-transform: none !important;
+}
+
+img {
+  box-shadow: none !important;
+  border: none !important;
+}
+.course {
+
+}
+.instructor {
+  text-align: right;
+}
+.topics {
+  display: flex;
+  flex-direction: row;
+}
+.topic {
+  flex: auto;
+}
